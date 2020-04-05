@@ -50,7 +50,13 @@ development env running
 
 Say what the step will be
 
-1)
+1)   Start with breaking the whole process into four categories, and specifications needed at each stage. 
+      The four categories are:
+      - Consumer
+      - Delivery person
+      - Shops
+      - Government & police
+      
 2) Starting with the consumer, our app would have to focus on:
   a) Specification of goods: We are currently focusing on essential foods (rice, grains, pulses, vegetables, fruits,        milk, sugar, oil, salt and few masalas), and medical needs (very especially for life threatening needs, masks, sanitizers,bandages), few essentials( soap, etc).
   b) Brands being offered: This we will have to mention along with the shops who are willing to offer them, and show as such in the app, with price.
