@@ -42,13 +42,13 @@ aggregated by residents associations or local administration, which
 then can take adequate action to distribute goods and services to
 houses of the people. This may be done contactlessly.
 
-// # Getting started
+<!-- // # Getting started
  // ## Installing
 
 // A step by step series of examples that tell you how to get a
 // development env running 
 
-//Say what the step will be
+//Say what the step will be -->
 
 #  Description
 
