@@ -116,7 +116,7 @@ houses of the people. This may be done contactlessly.
   
   * **e) Ensuring correct transactions and amount at both ends**, also running a trial will help us check the availability of goods and minimum quality. 
    
- **4) Fourth and most important is the government:**
+ **5) Fourth and most important is the government:**
    We need to get permission and passes for slots for those areas, to ensure proper functioning. We can use admin help, after showing material results, and running a small trial. 
   
   *All work, can be divided and started parallely, especially contacting government and people.
