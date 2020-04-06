@@ -110,9 +110,9 @@ houses of the people. This may be done contactlessly.
   
   * **b) Collecting a list of products and the brands given by the store, consolidating a list shopwise as well as brand wise maybe (if we are going to offer) , and providing filters like sorting according to type of items, shops,etc.**
   
-  * **c) How will the shops receive the order, the format and location, and again ange of area for which they will accept.**Pooled orders must be taken care of, as the seperate lists must appear so ( for seperate packaging, jute sacks maybe). 
+  * **c) How will the shops receive the order, the format and location, and again ange of area for which they will accept**.Pooled orders must be taken care of, as the seperate lists must appear so ( for seperate packaging, jute sacks maybe). 
   
-  * **d) If we are taking into consideration farmer produce, how will we connect the farmer and end consumer..? 
+  * **d) If we are taking into consideration farmer produce, how will we connect the farmer and end consumer..** ?
   
   * **e) Ensuring correct transactions and amount at both ends**, also running a trial will help us check the availability of goods and minimum quality. 
    
